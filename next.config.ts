@@ -18,6 +18,7 @@ const nextConfig: NextConfig = {
     ],
     unoptimized: true,
   },
+  turbopack: {},
 };
 
 export default withPWA({
